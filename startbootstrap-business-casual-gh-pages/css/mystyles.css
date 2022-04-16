@@ -1,0 +1,36 @@
+/*this is for the about and index page*/
+
+h1 {
+    font-family: papyrus;
+}
+
+li {
+    padding-bottom: 4px;
+}
+
+.intro {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingSpace {
+    padding-bottom: 20px;
+}
+
+.headerPadding {
+    padding-bottom: 15px;
+}
+
+.caption {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 0.4cm;
+}
+
+.jumpStyle {
+    padding-top: 20px;
+    text-align: center;
+}
+
+body {
+    background-image:url('https://wallpapercave.com/wp/wp2568631.jpg');
+}
